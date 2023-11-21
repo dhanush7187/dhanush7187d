@@ -1,2 +1,3 @@
 # dhanush7187d
-this is my first github repo
+This is my first github repo
+Author- Dhanush Nambiar
